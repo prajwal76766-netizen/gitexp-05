@@ -1,1 +1,2 @@
-printf("hello python!")
+print("hello python!")
+print("my name is XYZ"):
